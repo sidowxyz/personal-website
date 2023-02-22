@@ -12,7 +12,7 @@ Fill in your own information
   <li>Join newsletter button</li>
 <br>
   
-  ![screenshot](/public/images/screenshot.png)
+  ![screenshot](screenshot.png)
   <br>
 - Live Site URL: [@Netlify](https://hilarious-vacherin-83d0f1.netlify.app/)
 
